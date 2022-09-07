@@ -1,3 +1,6 @@
+The Notebook contains links that don't operate on Github. It is recommended to view the project below:
+https://nbviewer.org/github/clozgil/Employee-Churn-Rate-Analysis-and-Prediction/blob/main/Employee%20Churn%20Rate%20Analysis%20and%20Prediction.ipynb
+
 # Introduction
 
 This project focuses on analyzing human resource data on employees and building a model that can predict which employees are more likely to quit. Hiring and retaining workers can be a costly task for any business. By focusing on an accurate model that can predict an employee's retention, we could reduce an organization's employee churn rate and potentially save the organization time and capital. 
